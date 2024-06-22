@@ -1,0 +1,364 @@
+[
+    {
+        "id": 1,
+        "parent_id": null,
+        "translations": [
+            {
+                "name": "Tabiiy-ilmiy",
+                "language_code": "uz"
+            }
+        ],
+        "children": [
+            {
+                "id": 2,
+                "parent_id": 1,
+                "translations": [
+                    {
+                        "name": "Astronomiya",
+                        "language_code": "uz"
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "parent_id": 1,
+                "translations": [
+                    {
+                        "name": "Geografiya",
+                        "language_code": "uz"
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "parent_id": 1,
+                "translations": [
+                    {
+                        "name": "Geologiya",
+                        "language_code": "uz"
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "parent_id": 1,
+                "translations": [
+                    {
+                        "name": "Matematika",
+                        "language_code": "uz"
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "parent_id": 1,
+                "translations": [
+                    {
+                        "name": "Fizika",
+                        "language_code": "uz"
+                    }
+                ]
+            },
+            {
+                "id": 7,
+                "parent_id": 1,
+                "translations": [
+                    {
+                        "name": "Kimyo",
+                        "language_code": "uz"
+                    }
+                ]
+            },
+            {
+                "id": 8,
+                "parent_id": 1,
+                "translations": [
+                    {
+                        "name": "Biologiya",
+                        "language_code": "uz"
+                    }
+                ]
+            },
+            {
+                "id": 9,
+                "parent_id": 1,
+                "translations": [
+                    {
+                        "name": "Geodeziya va kartografiya",
+                        "language_code": "uz"
+                    }
+                ]
+            },
+            {
+                "id": 10,
+                "parent_id": 1,
+                "translations": [
+                    {
+                        "name": "Geofizika",
+                        "language_code": "uz"
+                    }
+                ]
+            },
+            {
+                "id": 11,
+                "parent_id": 1,
+                "translations": [
+                    {
+                        "name": "Jismoniy tarbiya va sport",
+                        "language_code": "uz"
+                    }
+                ]
+            },
+            {
+                "id": 12,
+                "parent_id": 1,
+                "translations": [
+                    {
+                        "name": "Ekologiya",
+                        "language_code": "uz"
+                    }
+                ]
+            },
+            {
+                "id": 13,
+                "parent_id": 1,
+                "translations": [
+                    {
+                        "name": "Boshlang'ich ta'lim",
+                        "language_code": "uz"
+                    }
+                ]
+            },
+            {
+                "id": 14,
+                "parent_id": 1,
+                "translations": [
+                    {
+                        "name": "Tabiatshunoslik",
+                        "language_code": "uz"
+                    }
+                ]
+            },
+            {
+                "id": 15,
+                "parent_id": 1,
+                "translations": [
+                    {
+                        "name": "Algebra",
+                        "language_code": "uz"
+                    }
+                ]
+            },
+            {
+                "id": 16,
+                "parent_id": 1,
+                "translations": [
+                    {
+                        "name": "Geometriya",
+                        "language_code": "uz"
+                    }
+                ]
+            },
+            {
+                "id": 17,
+                "parent_id": 1,
+                "translations": [
+                    {
+                        "name": "Chizmachilik",
+                        "language_code": "uz"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "parent_id": null,
+        "translations": [
+            {
+                "name": "Gumanitar-ilmiy",
+                "language_code": "uz"
+            }
+        ],
+        "children": [
+            {
+                "id": 19,
+                "parent_id": 2,
+                "translations": [
+                    {
+                        "name": "Tarix",
+                        "language_code": "uz"
+                    }
+                ],
+                "children": [
+                    {
+                        "id": 20,
+                        "parent_id": 19,
+                        "translations": [
+                            {
+                                "name": "O'zbekiston tarixi",
+                                "language_code": "uz"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 21,
+                        "parent_id": 19,
+                        "translations": [
+                            {
+                                "name": "Jahon adabiyoti",
+                                "language_code": "uz"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 22,
+                        "parent_id": 19,
+                        "translations": [
+                            {
+                                "name": "Etnalogiya",
+                                "language_code": "uz"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 23,
+                        "parent_id": 19,
+                        "translations": [
+                            {
+                                "name": "Etnografiya",
+                                "language_code": "uz"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 24,
+                        "parent_id": 19,
+                        "translations": [
+                            {
+                                "name": "Arxeologiya",
+                                "language_code": "uz"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 25,
+                "parent_id": 2,
+                "translations": [
+                    {
+                        "name": "Ilmshunoslik",
+                        "language_code": "uz"
+                    }
+                ]
+            },
+            {
+                "id": 26,
+                "parent_id": 2,
+                "translations": [
+                    {
+                        "name": "Demografiya",
+                        "language_code": "uz"
+                    }
+                ]
+            },
+            {
+                "id": 27,
+                "parent_id": 2,
+                "translations": [
+                    {
+                        "name": "Qoraqalpoq adabiyoti",
+                        "language_code": "uz"
+                    }
+                ]
+            },
+            {
+                "id": 28,
+                "parent_id": 2,
+                "translations": [
+                    {
+                        "name": "Adabiyot",
+                        "language_code": "uz"
+                    }
+                ],
+                "children": [
+                    {
+                        "id": 29,
+                        "parent_id": 28,
+                        "translations": [
+                            {
+                                "name": "Jahon adabiyoti",
+                                "language_code": "uz"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 30,
+                        "parent_id": 28,
+                        "translations": [
+                            {
+                                "name": "O'zbek adabiyoti",
+                                "language_code": "uz"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 31,
+                "parent_id": 2,
+                "translations": [
+                    {
+                        "name": "Siyosat",
+                        "language_code": "uz"
+                    }
+                ],
+                "children": [
+                    {
+                        "id": 32,
+                        "parent_id": 31,
+                        "translations": [
+                            {
+                                "name": "Siyosatshunoslik",
+                                "language_code": "uz"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 33,
+                "parent_id": 2,
+                "translations": [
+                    {
+                        "name": "Sotsiologiya",
+                        "language_code": "uz"
+                    }
+                ]
+            },
+            {
+                "id": 34,
+                "parent_id": 2,
+                "translations": [
+                    {
+                        "name": "Tilshunoslik",
+                        "language_code": "uz"
+                    }
+                ],
+                "children": [
+                    {
+                        "id": 35,
+                        "parent_id": 34,
+                        "translations": [
+                            {
+                                "name": "O'zbek tili",
+                                "language_code": "uz"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

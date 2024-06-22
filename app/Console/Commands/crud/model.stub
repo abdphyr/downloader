@@ -1,0 +1,12 @@
+<?php
+
+namespace App\Models;
+{usings}
+class Example extends BaseModel
+{{using}{factory}{translate}
+    protected $guarded = [];
+
+    protected $fillable = [
+        
+    ];
+}
