@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "framework": "Laravel",
+    "framework": null,
     "builds": [
         {
             "src": "Dockerfile",
