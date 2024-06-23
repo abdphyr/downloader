@@ -1,6 +1,12 @@
 {
     "version": 2,
-    "framework": null,
+    "framework": "Laravel",
+    "builds": [
+        {
+            "src": "Dockerfile",
+            "use": "@vercel/docker"
+        }
+    ],
     "functions": {
         "api/index.php": {
             "runtime": "vercel-php@0.3.1"
